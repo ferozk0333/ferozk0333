@@ -11,4 +11,4 @@ I am proficient in Python, PyTorch, Scikit-learn, SQL, Docker, AWS, MLflow, Airf
 ## Let’s Connect
 
 LinkedIn: https://www.linkedin.com/in/ferozkhan2/
-Portfolio: [[your-portfolio]](https://ferozk0333.github.io/) 
+Portfolio: https://ferozk0333.github.io/
