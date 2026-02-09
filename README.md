@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I’m Feroz 👋
 
-<!--
-**ferozk0333/ferozk0333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Graduate Data Scientist at IHME and a Master of Science student at the University of Washington.
 
-Here are some ideas to get you started:
+I build end-to-end ML systems from data pipelines and modeling to evaluation and deployment. My experience lies in statistical machine learning, NLP, information retrieval, LLM fine-tuning, and MLOps. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am proficient in Python, PyTorch, Scikit-learn, SQL, Docker, AWS, MLflow, Airflow. Besides that, I am also well versed with Software Engineering concepts like Data Structures and Algorithms.   
+
+---
+
+## Let’s Connect
+
+LinkedIn: https://www.linkedin.com/in/ferozkhan2/
+Portfolio: [[your-portfolio]](https://ferozk0333.github.io/) 
