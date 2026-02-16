@@ -1,11 +1,19 @@
 # Hi, I’m Feroz 👋
 
-I’m a Graduate Data Scientist at IHME and a Master of Science student at the University of Washington.
+I’m a Graduate Data Scientist at IHME and a Master of Science candidate at the University of Washington, Seattle, USA.
 
 I build end-to-end ML systems from data pipelines and modeling to evaluation and deployment. My experience lies in statistical machine learning, NLP, information retrieval, LLM fine-tuning, and MLOps. 
 
-I am proficient in Python, PyTorch, Scikit-learn, SQL, Docker, AWS, MLflow, Airflow. Besides that, I am also well versed with Software Engineering concepts like Data Structures and Algorithms.   
 
+### Tech Stack
+#### AI/ML
+LLMs, Agentic Workflows, RAG, LangChain, Regression, Classification, Scikit-learn, PyTorch, Language Modeling (RNN, LSTM, Transformers)
+
+#### Backend
+FastAPI, AWS(EC2, ECR, SageMaker, S3), Docker, CI/CD, MLflow
+
+#### Data
+Pandas, Numpy, Xarray
 ---
 
 ## Let’s Connect
