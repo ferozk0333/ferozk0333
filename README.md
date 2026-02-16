@@ -15,12 +15,15 @@ FastAPI, AWS(EC2, ECR, SageMaker, S3), Docker, CI/CD, MLflow
 #### Data
 Pandas, Numpy, Xarray, Relational and Unstructured Data
 
----
 
-## Check out my work
 
+## Connect With Me
+
+Email: ferozk@uw.edu
+</br>
 LinkedIn: https://www.linkedin.com/in/ferozkhan2/ 
 </br>
 Portfolio: https://ferozk0333.github.io/
 </br>
 Medium: https://medium.com/@iambeingferoz
+
