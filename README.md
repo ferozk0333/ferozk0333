@@ -13,7 +13,7 @@ LLMs, Agentic Workflows, RAG, LangChain, Regression, Classification, Scikit-lear
 FastAPI, AWS(EC2, ECR, SageMaker, S3), Docker, CI/CD, MLflow
 
 #### Data
-Pandas, Numpy, Xarray
+Pandas, Numpy, Xarray, Relational and Unstructured Data
 
 ---
 
