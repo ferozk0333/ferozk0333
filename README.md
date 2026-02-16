@@ -14,10 +14,13 @@ FastAPI, AWS(EC2, ECR, SageMaker, S3), Docker, CI/CD, MLflow
 
 #### Data
 Pandas, Numpy, Xarray
+
 ---
 
-## Let’s Connect
+## Check out my work
 
 LinkedIn: https://www.linkedin.com/in/ferozkhan2/ 
 </br>
 Portfolio: https://ferozk0333.github.io/
+</br>
+Medium: https://medium.com/@iambeingferoz
