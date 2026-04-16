@@ -1,6 +1,6 @@
 # Hi, I’m Feroz 👋
 
-I’m a Graduate Data Scientist at IHME and a Master of Science candidate at the University of Washington, Seattle, USA.
+I’m a Graduate Research Analyst at IHME and a Master of Science candidate at the University of Washington, Seattle, USA.
 
 I build end-to-end ML systems from data pipelines and modeling to evaluation and deployment. My experience lies in statistical machine learning, NLP, information retrieval, LLM fine-tuning, and MLOps. 
 
