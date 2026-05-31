@@ -27,3 +27,9 @@ Portfolio: https://ferozk0333.github.io/
 </br>
 Medium: https://medium.com/@iambeingferoz
 
+## Writing & Explainers
+
+**[The Memory Wall Is Strangling Your LLM](https://ferozk0333.github.io/memory-wall/)**
+Interactive explainer on why LLM inference is stuck at 200 tok/s despite H100s having 1,000 TFLOP/s. Covers memory hierarchy, speculative decoding, diffusion LLMs, and the roofline model.
+[Read the full article on Medium](https://medium.com/@iambeingferoz)
+
