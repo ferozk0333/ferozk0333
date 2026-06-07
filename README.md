@@ -34,7 +34,7 @@ Interactive explainer on why LLM inference is stuck at 200 tok/s despite H100s h
 [Read the full article on Medium](https://medium.com/@iambeingferoz)
 </br>
 
-**[Multi-Agent LLM Pipeline with RAG, Interpretable ML, and Governance](https://ferozk0333.github.io/Agentic-Fraud-Detection-System-with-LangGraph-and-RAG/)**
+**[Multi-Agent LLM Pipeline with RAG, Interpretable ML, and Governance](https://ferozk0333.github.io/Agentic-Dispute-Resolution-System-with-LangGraph-and-RAG/)**
 Interactive project explainer on architecture, RAG evaluation, classifier design, and governance layer.
 
 
