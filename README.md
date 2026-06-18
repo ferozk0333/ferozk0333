@@ -19,7 +19,7 @@ Pandas, Numpy, Xarray, Relational and Unstructured Data
 
 ## Connect With Me
 
-Email: ferozk@uw.edu
+Email: ferozk0333@gmail.com
 </br>
 LinkedIn: https://www.linkedin.com/in/ferozkhan2/ 
 </br>
