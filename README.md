@@ -2,7 +2,7 @@
 
 I’m an AWS Certified ML Engineer. I have previously worked at IHME and Oracle, and hold an MS in Data Science from the University of Washington, Seattle, USA.
 
-I build end-to-end AI systems from data pipelines and modeling to evaluation and deployment. My experience lies in statistical machine learning, Generative AI, NLP, Information Retrieval, and MLOps. 
+I build end-to-end AI systems from data pipelines and modeling to evaluation and deployment. My experience encompasses statistical machine learning, Generative AI, NLP, Information Retrieval, and MLOps. 
 
 
 ### Tech Stack
