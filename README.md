@@ -1,8 +1,8 @@
 # Hi, I’m Feroz 👋
 
-I’m a Graduate Research Fellow at IHME and a Master of Science candidate at the University of Washington, Seattle, USA.
+I’m an AWS Certified ML Engineer. I have previously worked at IHME and Oracle, and hold an MS in Data Science from the University of Washington, Seattle, USA.
 
-I build end-to-end ML systems from data pipelines and modeling to evaluation and deployment. My experience lies in statistical machine learning, NLP, information retrieval, LLM fine-tuning, and MLOps. 
+I build end-to-end AI systems from data pipelines and modeling to evaluation and deployment. My experience lies in statistical machine learning, Generative AI, NLP, Information Retrieval, and MLOps. 
 
 
 ### Tech Stack
@@ -10,7 +10,7 @@ I build end-to-end ML systems from data pipelines and modeling to evaluation and
 LLMs, Agentic Workflows, RAG, LangChain, Regression, Classification, Scikit-learn, PyTorch, Language Modeling (RNN, LSTM, Transformers)
 
 #### Backend
-FastAPI, AWS(EC2, ECR, SageMaker, S3), Docker, CI/CD, MLflow
+FastAPI, AWS(EC2, Bedrock, SageMaker), Docker, CI/CD, MLflow
 
 #### Data
 Pandas, Numpy, Xarray, Relational and Unstructured Data
