@@ -18,7 +18,7 @@ Pandas, Numpy, Xarray, Relational and Unstructured Data
 
 #### Certifications
 AWS Certified Machine Learning Engineer - Associate </br>
-AWS Solutions Architect - Associate
+AWS Certified Solutions Architect - Associate
 
 
 
