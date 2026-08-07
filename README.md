@@ -1,14 +1,11 @@
 # Hi, I’m Feroz 👋
 
-I’m an AWS Certified ML Engineer. I have previously worked at IHME and Oracle, and hold an MS in Data Science from the University of Washington, Seattle, USA.
+I’m an AWS Certified AI/ML Engineer. I have previously worked at IHME and Oracle, and hold an MS in Data Science from the University of Washington, Seattle, USA.
 
-I build end-to-end AI systems from data pipelines and modeling to evaluation and deployment. My experience encompasses statistical machine learning, Generative AI, NLP, Information Retrieval, and MLOps. 
+I build end-to-end AI systems from data pipelines and modeling to evaluation and deployment. My experience encompasses Machine Learning, Deep Learning, Generative AI, NLP, Information Retrieval, and MLOps. 
 
 
 ### Tech Stack
-#### Certifications
-AWS Certified Machine Learning Engineer - Associate </br>
-AWS Solutions Architect - Associate
 
 #### AI/ML
 LLMs, Agentic Workflows, RAG, LangChain, Regression, Classification, Scikit-learn, PyTorch, Language Modeling (RNN, LSTM, Transformers)
@@ -18,6 +15,10 @@ FastAPI, AWS(EC2, Bedrock, SageMaker), Docker, CI/CD, MLflow
 
 #### Data
 Pandas, Numpy, Xarray, Relational and Unstructured Data
+
+#### Certifications
+AWS Certified Machine Learning Engineer - Associate </br>
+AWS Solutions Architect - Associate
 
 
 
