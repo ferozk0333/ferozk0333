@@ -7,7 +7,7 @@ I build end-to-end AI systems from data pipelines and modeling to evaluation and
 
 ### Tech Stack
 #### Certifications
-AWS Certified Machine Learning Engineer - Associate
+AWS Certified Machine Learning Engineer - Associate </br>
 AWS Solutions Architect - Associate
 
 #### AI/ML
