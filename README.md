@@ -6,6 +6,10 @@ I build end-to-end AI systems from data pipelines and modeling to evaluation and
 
 
 ### Tech Stack
+#### Certifications
+AWS Certified Machine Learning Engineer - Associate
+AWS Solutions Architect - Associate
+
 #### AI/ML
 LLMs, Agentic Workflows, RAG, LangChain, Regression, Classification, Scikit-learn, PyTorch, Language Modeling (RNN, LSTM, Transformers)
 
