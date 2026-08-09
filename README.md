@@ -11,7 +11,7 @@ I build end-to-end AI systems from data pipelines and modeling to evaluation and
 LLMs, Agentic Workflows, RAG, LangChain, Regression, Classification, Scikit-learn, PyTorch, Language Modeling (RNN, LSTM, Transformers)
 
 #### Backend
-FastAPI, AWS(EC2, Bedrock, SageMaker), Docker, CI/CD, MLflow
+FastAPI, AWS(EC2, Bedrock, SageMaker, CloudWatch, ECS), Terraform, Docker, CI/CD, MLflow
 
 #### Data
 Pandas, Numpy, Xarray, Relational and Unstructured Data
