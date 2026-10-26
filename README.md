@@ -30,6 +30,8 @@ LinkedIn: https://www.linkedin.com/in/ferozkhan2/
 </br>
 Portfolio: https://ferozk0333.github.io/
 </br>
+HuggingFace: https://huggingface.co/ferozk0333
+</br>
 Medium: https://medium.com/@iambeingferoz
 
 ## Writing & Explainers
