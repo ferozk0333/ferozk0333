@@ -34,6 +34,14 @@ HuggingFace: https://huggingface.co/ferozk0333
 </br>
 Medium: https://medium.com/@iambeingferoz
 
+## Connect With Me
+
+| | |
+|---|---|
+| **Email:** [ferozk0303@gmail.com](mailto:ferozk0303@gmail.com) | **LinkedIn:** [ferozkhan2](https://www.linkedin.com/in/ferozkhan2/) |
+| **Portfolio:** [ferozk0333.github.io](https://ferozk0333.github.io/) | **HuggingFace:** [ferozk0333](https://huggingface.co/ferozk0333) |
+| **Medium:** [@iambeingferoz](https://medium.com/@iambeingferoz) | |
+
 ## Writing & Explainers
 
 **[The Memory Wall Is Strangling Your LLM](https://ferozk0333.github.io/memory-wall/)**
