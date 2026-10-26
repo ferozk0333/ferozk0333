@@ -23,6 +23,7 @@ AWS Certified Solutions Architect - Associate
 
 ## Connect With Me
 
+| | |
 |---|---|
 | **Email:** [ferozk0303@gmail.com](mailto:ferozk0303@gmail.com) | **LinkedIn:** [ferozkhan2](https://www.linkedin.com/in/ferozkhan2/) |
 | **Portfolio:** [ferozk0333.github.io](https://ferozk0333.github.io/) | **HuggingFace:** [ferozk0333](https://huggingface.co/ferozk0333) |
