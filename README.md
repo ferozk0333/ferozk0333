@@ -23,11 +23,20 @@ AWS Certified Solutions Architect - Associate
 
 ## Connect With Me
 
-| | |
-|---|---|
-| **Email:** [ferozk0303@gmail.com](mailto:ferozk0303@gmail.com) | **LinkedIn:** [ferozkhan2](https://www.linkedin.com/in/ferozkhan2/) |
-| **Portfolio:** [ferozk0333.github.io](https://ferozk0333.github.io/) | **HuggingFace:** [ferozk0333](https://huggingface.co/ferozk0333) |
-| **Medium:** [@iambeingferoz](https://medium.com/@iambeingferoz) | |
+<table>
+  <tr>
+    <td><b>Email:</b> <a href="mailto:ferozk0303@gmail.com">ferozk0303@gmail.com</a></td>
+    <td><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/ferozkhan2/">ferozkhan2</a></td>
+  </tr>
+  <tr>
+    <td><b>Portfolio:</b> <a href="https://ferozk0333.github.io/">ferozk0333.github.io</a></td>
+    <td><b>HuggingFace:</b> <a href="https://huggingface.co/ferozk0333">ferozk0333</a></td>
+  </tr>
+  <tr>
+    <td><b>Medium:</b> <a href="https://medium.com/@iambeingferoz">@iambeingferoz</a></td>
+    <td></td>
+  </tr>
+</table>
 
 ## Writing & Explainers
 
